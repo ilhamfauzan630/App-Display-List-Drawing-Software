@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">DrawingSoftware</string>
+
+    <string name="software_name">[default] Nama software</string>
+    <string name="description">\t\t\t[default] Adobe photoshop Sketch merupakan sebuah aplikasi untuk gambar yang luar biasa. Aplikasi itu lengkap dengan berbagai macam jenis alat gambar serta lembar yang begitu banyak. Terlebih dalam aplikasi terdapat fitur yang banyak. Adobe Photoshop Sketch memiliki interface yang bersih dan menarik. Oleh karena itu, aplikasi yang satu ini sangat cocok digunakan oleh pemula karena cukup simple. Lewat aplikasi ini kamu bisa mencoba membuat sketsa atau menambahkan komponen digital dalam karyamu. Adapun fitur menarik lainnya yaitu bisa simpan pekerjaan dalam format multiplayer yang bisa Anda buka kembali di Adobe Photoshop atau Adobe Ilustrator secara mudah. Dengan begitu, Anda bisa bekerja di Android maupun PC secara langsung. Untuk tahu fitur apa saja yang berada dalam aplikasi Adobe Photoshop Sketch, Anda bisa simak ulasan berikut ini.</string>
+    <string name="profile">profile</string>
+    <string name="nama_muhammad_ilham_fauzan">Nama : Muhammad Ilham Fauzan</string>
+    <string name="email_fauzanilham630_gmail_com">Email : fauzanilham630@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Adobe Photoshop Sketch</item>
+        <item>Clip Studio Paint</item>
+        <item>Medibang Paint Pro</item>
+        <item>Ibis Paint X</item>
+        <item>Procreate</item>
+        <item>Adobe Illustrator</item>
+        <item>Inspire Pro</item>
+        <item>Inkscape</item>
+        <item>Paintstorm Studio</item>
+        <item>Adobe Photoshop CC</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>\t\t\tAdobe photoshop Sketch merupakan sebuah aplikasi untuk gambar yang luar biasa. Aplikasi itu lengkap dengan berbagai macam jenis alat gambar serta lembar yang begitu banyak. Terlebih dalam aplikasi terdapat fitur yang banyak. Adobe Photoshop Sketch memiliki interface yang bersih dan menarik. Oleh karena itu, aplikasi yang satu ini sangat cocok digunakan oleh pemula karena cukup simple. Lewat aplikasi ini kamu bisa mencoba membuat sketsa atau menambahkan komponen digital dalam karyamu. Adapun fitur menarik lainnya yaitu bisa simpan pekerjaan dalam format multiplayer yang bisa Anda buka kembali di Adobe Photoshop atau Adobe Ilustrator secara mudah. Dengan begitu, Anda bisa bekerja di Android maupun PC secara langsung. Untuk tahu fitur apa saja yang berada dalam aplikasi Adobe Photoshop Sketch, Anda bisa simak ulasan berikut ini.</item>
+        <item>\t\t\tClip Studio Paint adalah perangkat lunak seni digital yang populer dan sering digunakan oleh para seniman, ilustrator, dan animator. Clip Studio Paint (dulunya dikenal sebagai Manga Studio) dikembangkan oleh perusahaan perangkat lunak Jepang, Celsys. Program ini pertama kali diluncurkan pada tahun 2001 dan awalnya dirancang untuk membuat manga dan komik. Seiring dengan perkembangan teknologi dan kebutuhan seniman digital yang semakin kompleks, Clip Studio Paint mengalami banyak perubahan dan perbaikan pada setiap versinya. Pada tahun 2012, Celsys merilis versi Clip Studio Paint EX, yang menambahkan fitur animasi dan dukungan untuk model 3D. aplikasi ini cocok untuk pemula karena banyak sekali tools yang dapat membantu pemula dalam menggambar</item>
+        <item>\t\t\tMedibang paint pro adalah software gratis untuk digital painting dan comic creator. Meskipun gratis, ia hadir dengan berbagai macam fitur seperti kuas, font, latar belakang dan sumber daya lainya. medibang juga tersedia dalam berbagai platform Windows, iOS, Mac OS X dan juga Android. Medibang memlilik 50 kuas yang bisa kalian gunakan seperti GPen, Pen untuk membuat lineart dan kuas cat air untuk mewarnai. Setiap kuas memiliki pengaturan yang berbeda-beda yang bisa diatur sendiri,selain itu juga dapat membuat kuas sendiri sesuai keinginan pengguna, dan masih banyak kuas-kuas menarik lainnya yang diberikan medibang bagi para pengguna.</item>
+        <item>\t\t\tIbisPaint adalah aplikasi yang tercetus dari keinginan membagikan kegembiraan di balik gambar digital melalui video yang memperlihatkan proses menggambar yang sesungguhnya kepada para penonton. Ini adalah aplikasi menggambar sosial di mana konsep tersebut menjadi hidup melalui smartphone, tablet, dan perangkat lainnya. IbisPaint menghadirkan bermacam-macam fitur, yang sebagian besar biasanya hanya tersedia di aplikasi menggambar desktop. Dengan fiturnya yang lengkap, kamu bisa menciptakan gambar tepat seperti dalam bayanganmu. ibisPaint memungkinkanmu untuk mengubah tempat mana saja menjadi studio terbaikmu kapan saja. IbisPaint memiliki semua fitur yang kamu butuhkan untuk menciptakan manga dan ilustrasi dengan mudah, termasuk fungsi Screen Tone yang dapat digambar dan direkatkan, Pemisah Bingkai untuk menyesuaikan bingkai dengan satu jari, dan Input Teks dengan pilihan jenis huruf. Selain ibisPaint, yang kamu butuhkan untuk menggambar ilustrasi dan manga hanyalah imajinasimu.</item>
+        <item>\t\t\tProcreate adalah salah satu aplikasi ilustrasi yang populer di kalangan para ilustrator profesional sebab terdapat berbagai fitur yang menunjang pembuatan ilustrasi ekspresif. Tak berhenti sampai di sini, aplikasi Procreate juga disukai karena memiliki tampilan visual sederhana. Kendati aplikasi ini lebih menonjolkan tingkat kelancaran dalam penggunaannya, tetapi fitur-fitur di dalamnya pun sangat memungkinkan untuk menunjang kinerja ilustrator dalam menghasilkan ilustrasi yang sesuai dengan imajinasi. Bagi para pecinta gambar digital, Procreate menjadi pilihan tepat. Seperti diketahui bersama bahwa saat ini ada banyak sekali aplikasi maupun software untuk menggambar digital.</item>
+        <item>\t\t\tAdobe Illustrator merupakan software desain grafis yang menjadi pilihan para desainer grafis dunia. Keberadaan software Illustrator ini sangat membantu pekerjaan di bidang multimedia bagi para pemula hingga profesional. Tidak heran, software keluaran Adobe System ini selalu memberikan predikat unggul pada produk-produk yang diciptakannya. Salah satu di antaranya adalah Adobe Photoshop yang sekian lama ini juga sering digunakan bagi kalangan umum pencipta desain. Beberapa karya digital yang bisa dihasilkan dari aplikasi ini di antaranya, logo, ikon, desain produk, tipografi, ilustrasi, desain iklan di billboard, desain konten media, dan lainnya. Situs resmi Adobe memberikan penjelasan mengenai olah grafis dari software ini yang mana menghasilkan bentuk vektor. Vektor sendiri memiliki keunggulan terbaik bagi gambar yang didesain karena tipe gambar yang tidak pecah saat diperbesar. Karena itulah, software Adobe Illustrator sangat digandrungi para kreator digital dalam menjalankan bisnis desain dan multimedia.</item>
+        <item>\t\t\tAplikasi gambar Inspire Pro memudahkan untuk menggambar dengan cepat dan bisa digunakan untuk pemula. Ada banyak orang yang suka menggambar, namun tidak semuanya mampu mewujudkan inspirasinya. Aplikasi untuk menggambar ini bisa memudahkan banyak seniman untuk menciptakan berbagai karya yang indah. Jika ingin menciptakan gambaran yang indah maka Anda bisa mengandalkan aplikasi ini. Anda bisa menggunakannya untuk pengalaman melukis, menggambar, dan membuat sketsa yang sangat realistis. Anda bisa memanfaatkan aplikasi ini kapan dan dimana saja. Jadi tidak heran jika Anda banyak orang yang tertarik untuk menggunakan aplikasi tersebut.</item>
+        <item>\t\t\tInkscape adalah aplikasi menggambar vektor yang free dan open source, alias pengembangannya terbuka dan dilakukan oleh orang-orang di seluruh dunia, serta didistribusikan dengan gratis tanpa harus membeli atau menyewa lisensi. Antarmukanya mirip seperti aplikasi menggambar vektor pada umumnya. ada kanvas, tools dan panel-panel. Dengan Inkscape yang gratis, maka pengguna tidak perlu lagi pusing-pusing dengan biaya dan lisensi termasuk legalitas aplikasi yang kita gunakan. anda bebas menggunakan buat keperluan pribadi atau komersil. tidak ada bajakan dan tidak ada crack.</item>
+        <item>\t\t\tPaintstorm Studio adalah alat yang sangat diperlukan bagi para seniman, yang diciptakan untuk karya dengan kompleksitas, genre, dan teknik apa pun. paintstorm adalah alat yang intuitif, mudah digunakan namun sekaligus kuat secara fungsional yang membawa proses lukisan digital ke tingkat baru, menjadikannya senyaman mungkin. software ini bagus digunakan untuk menggambar concept art, comic manga, tradisional style, serta gaya gambarmu sendiri</item>
+        <item>\t\t\tAdobe CC (Creative Cloud) adalah versi software dari Adobe yang mendukung sistem cloud computing. Singkatnya, project yang Anda buat dari Adobe CC ini bisa disimpan secara online. Anda juga bisa memberikan akses project tersebut ke pengguna lain. Umumnya dipakai untuk keperluan pekerjaan dengan tim. Sekilas, dari tampilannya, Adobe Photoshop CC memiliki kemiripan dengan Adobe CS6. Dengan balutan warna abu-abu tua dan penempatan tombol-tombolnya juga masih sama seperti versi sebelumnya. Tidak hanya untuk editing foto, adobe photoshop cc juga dapat digunakan untuk menggambar illustrasi. banyak tools yang dapat digunakan seperti brush, penggaris, sistem layer, dan lain-lain.</item>
+    </string-array>
+
+    <!--    gambar dari local png-->
+    <integer-array name="data_photo">
+        <item>@drawable/photosop_icon</item>
+        <item>@drawable/csp_icon</item>
+        <item>@drawable/medibang_paint_icon</item>
+        <item>@drawable/ibis_paint_x_icon</item>
+        <item>@drawable/procreate_icon</item>
+        <item>@drawable/adobe_illustrator_icon</item>
+        <item>@drawable/inspire_pro_icon</item>
+        <item>@drawable/inkscape_icon</item>
+        <item>@drawable/paintstorm_icon</item>
+        <item>@drawable/adobe_photoshop_cc</item>
+    </integer-array>
+
+    <!--    gambar dari internet-->
+    <string-array name="data_photo_internet">
+        <item>https://cdn-icons-png.flaticon.com/512/688/688101.png</item>
+        <item>https://play-lh.googleusercontent.com/ee8GjOdx7E-lS3BBKz13LNFjTiq_SS0Ag-NpyHUJLS3iWKbGRDXhtXZz6E1TNTWX7JM</item>
+        <item>https://play-lh.googleusercontent.com/Y9kDxQavCN12BQD5_5P4IPRnh5zPNJztQAQ7KGUNYs3sJgyBrjuLK1WFXQ_ebgYGazEy</item>
+        <item>https://play-lh.googleusercontent.com/QcfhlXm32JDnj3WM2-TSL78ad99x4slovX4OzCSLSPU3uRN-mGXpKyM_yeXiewhz0Lk</item>
+        <item>https://assets.procreate.art/img/procreate-icon-search-display.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png</item>
+        <item>https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/9f/0d/f59f0dd0-8930-fe1b-9cfe-9d4328ea951f/AppIcon-1x_U007emarketing-5-0-P3-85-220.png/512x512bb.jpg</item>
+        <item>https://cdn2.iconfinder.com/data/icons/flurry-icons-for-deviants/512/inkscape.png</item>
+        <item>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWwX1u0VqAv-jUkmTsz94NEnWpG4BlNVnJaw&amp;usqp=CAU</item>
+        <item>https://icon-library.com/images/photshop-icon/photshop-icon-12.jpg</item>
+    </string-array>
+</resources>
