@@ -31,6 +31,10 @@ class DetailSoftware : AppCompatActivity() {
             binding.imgItemPhoto.setImageResource(drawing.photo)
             binding.tvItemName.text = drawing.name
             binding.tvItemDescription.text = drawing.description
+            binding.device.text = drawing.device
+            binding.screenshotImg.setImageResource(drawing.dataScreenshot1)
+            binding.screenshotImg2.setImageResource(drawing.dataScreenshot2)
+            binding.screenshotImg3.setImageResource(drawing.dataScreenshot3)
         }
     }
 }

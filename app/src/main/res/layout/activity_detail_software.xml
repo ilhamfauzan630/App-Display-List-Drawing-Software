@@ -28,11 +28,11 @@
                     android:id="@+id/tv_item_name"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="4dp"
+                    android:layout_marginTop="16dp"
                     android:textSize="17sp"
                     android:textStyle="bold"
                     app:layout_constraintEnd_toEndOf="parent"
-                    app:layout_constraintHorizontal_bias="0.609"
+                    app:layout_constraintHorizontal_bias="0.195"
                     app:layout_constraintStart_toEndOf="@+id/img_item_photo"
                     app:layout_constraintTop_toTopOf="@+id/img_item_photo"
                     tools:text="@string/app_name" />
@@ -52,18 +52,56 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="20dp"
-                    android:text="Screenshot dari aplikasi"
+                    android:text="Screenshot"
                     app:layout_constraintEnd_toEndOf="@+id/tv_item_description"
                     app:layout_constraintHorizontal_bias="0.0"
                     app:layout_constraintStart_toStartOf="@+id/tv_item_description"
                     app:layout_constraintTop_toBottomOf="@+id/tv_item_description" />
 
-                <androidx.recyclerview.widget.RecyclerView
-                    android:layout_width="146dp"
-                    android:layout_height="212dp"
-                    app:layout_constraintEnd_toEndOf="@+id/screenshot_apk"
-                    app:layout_constraintStart_toStartOf="parent"
-                    app:layout_constraintTop_toBottomOf="@+id/screenshot_apk" />
+                <TextView
+                    android:id="@+id/device"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:textSize="10sp"
+                    android:text="Device : Android"
+                    app:layout_constraintEnd_toEndOf="@+id/tv_item_name"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="@+id/tv_item_name"
+                    app:layout_constraintTop_toBottomOf="@+id/tv_item_name" />
 
+                <ImageView
+                    android:id="@+id/screenshot_img"
+                    android:layout_width="350dp"
+                    android:layout_height="150dp"
+                    android:layout_marginTop="15dp"
+                    android:scaleType="fitXY"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.481"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/screenshot_apk"
+                    tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+                <ImageView
+                    android:id="@+id/screenshot_img2"
+                    android:layout_width="350dp"
+                    android:layout_height="150dp"
+                    android:layout_marginTop="15dp"
+                    android:scaleType="fitXY"
+                    app:layout_constraintEnd_toEndOf="@+id/screenshot_img"
+                    app:layout_constraintStart_toStartOf="@+id/screenshot_img"
+                    app:layout_constraintTop_toBottomOf="@+id/screenshot_img"
+                    tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+                <ImageView
+                    android:id="@+id/screenshot_img3"
+                    android:layout_width="350dp"
+                    android:layout_height="150dp"
+                    android:layout_marginTop="15dp"
+                    android:scaleType="fitXY"
+                    app:layout_constraintEnd_toEndOf="@+id/screenshot_img2"
+                    app:layout_constraintStart_toStartOf="@+id/screenshot_img2"
+                    app:layout_constraintTop_toBottomOf="@+id/screenshot_img2"
+                    tools:srcCompat="@tools:sample/backgrounds/scenic" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>

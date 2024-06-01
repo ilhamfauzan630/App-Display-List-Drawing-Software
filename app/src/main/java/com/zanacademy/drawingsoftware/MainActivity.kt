@@ -43,10 +43,14 @@ class MainActivity : AppCompatActivity() {
         val dataName = resources.getStringArray(R.array.data_name)
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
+        val device = resources.getStringArray(R.array.data_device)
+        val dataScreenshot = resources.obtainTypedArray(R.array.data_screenshot1)
+        val dataScreenshot2 = resources.obtainTypedArray(R.array.data_screenshot2)
+        val dataScreenshot3 = resources.obtainTypedArray(R.array.data_screenshot3)
 
         val listDrawingSoftware = ArrayList<DrawingSoftware>()
         for (i in dataName.indices) {
-            val drawingSoftware = DrawingSoftware(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1))
+            val drawingSoftware = DrawingSoftware(dataName[i], dataDescription[i], dataPhoto.getResourceId(i, -1), device[i], dataScreenshot.getResourceId(i, 1), dataScreenshot2.getResourceId(i, 1), dataScreenshot3.getResourceId(i, 1) )
             listDrawingSoftware.add(drawingSoftware)
         }
         return listDrawingSoftware
