@@ -4,7 +4,6 @@ import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.zanacademy.drawingsoftware.databinding.ActivityDetailSoftwareBinding
-import com.zanacademy.drawingsoftware.databinding.ActivityMainBinding
 
 class DetailSoftware : AppCompatActivity() {
     private lateinit var binding: ActivityDetailSoftwareBinding
